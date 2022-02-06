@@ -21,8 +21,8 @@ electricity bill calculation in rural areas
 bill calculation based on units consumed
 
 **Cost Vs Timeline**
-**
-` `This is the plot of cost of the calculators in ($ ) and time in  years
+
+This is the plot of cost of the calculators in ($ ) and time in  years
 
 [https://www.researchgate.net/profile/Lili\_Liu4/publication/329653747/figure/fig4/AS:723817190137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
