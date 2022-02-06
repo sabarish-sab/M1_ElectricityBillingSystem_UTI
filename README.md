@@ -1,19 +1,22 @@
 # M1_ProjectGoal_-UTI-
 
-# Calculator
 
+# Electricitybillingsystem
 
-# Introduction:-   
-Simple calculator is a project to allow users to calculate basic four operations in mathematics ,they are addition, subtraction, multiplication, division but in this Project
-which I'm Implementing ,also included three additional operations such as Factorial, Power ,modulas .However, the input has to be in the form "number1 operator1 number2
-"(i.e 2+4).    
+# INTRODUCTION: The Electricity Bill calculator project is the application based mini project, which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. 
 
-The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas, in another word it is implemented with the
-order of precedence logic.
+# RESEARCH
 
-#### Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Architecture`         | Documents specifying design details
-`3_Implementation` | All code and documentation
+The defining features of an electricity bill calculator include:
+
+power rating of all loads
+total load calculation
+unit consumed per day
+units consumed per month
+In addition, high-end electricity bill calculators generally include:
+
+electricity bill calculation in urban areas
+electricity bill calculation in rural areas
+bill calculation based on units consumed
+Cost Vs Timeline ** This is the plot of cost of the calculators in ($ ) and time in years
+
