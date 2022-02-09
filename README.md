@@ -62,7 +62,7 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 |`    `HL03|` `Units consumed per year|Implemented|
 |`    `HL04|` `Calculates total industrial loads|Implemented|
 
-# ` `**Low level Requirements:**
+# **Low level Requirements:**
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
