@@ -31,7 +31,7 @@ This is the plot of cost of the calculators in ($ ) and time in  (years)
 
 Design and testing operations of electricity bill calculator using unit testing algorithm.
 
-**SWOT analysis:**
+# **SWOT analysis:**
 
 **Strengths:** Innovative, User-friendly.
 
