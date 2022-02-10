@@ -1,7 +1,7 @@
 # M1_ElectricityBillingSystem_UTI
 
 
-# Electricitybillingsystem
+# Electricity Billing System
 
 # INTRODUCTION: 
 The Electricity Bill calculator project is the application based mini project, which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. 
