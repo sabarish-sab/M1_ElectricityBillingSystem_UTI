@@ -1,77 +1,84 @@
+# Requirements
+## Introduction
+  The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book  the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records
 
+## Research
+Cinemas help in contributing to our daily memories as they provide an essential part of our culture,going to cinemas has been the culture of almost all the families of today’s generation. It is a time when the family can spend some time altogether by stealing some hours from their busy schedule. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket
 
-# **REQUIREMENTS**
+The main goal of our project is to provide various types of customer facilities, and provide good  customer service
+   It should fulfill almost all the process requirements of booking a ticket
 
-**#INTRODUCTION:** The Electricity Bill calculator project is the application based mini project,      which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
+## Features
+#### Booking tickets
+#### Cancel tickets
+#### Change ticket price(only admin)
+#### View all booking records
+## Benefits
+### Movie Ticket Booking system provides wide range of benefit they are as follows
+#### Provides flexibility
+#### For better performance
+#### User Friendly
+#### Can Select the seats as per choice
 
-# **RESEARCH**
+### Defining Our System
+### Explanation
+Movie Ticket Booking System have few inbuilt features like
+      Admin
+    * Login 
+    * Can Change Price of a Ticket.
+    * Can View the Reserved Tickets.
+    * Exit System.
+      User
+    * Login with Credatials.
+    * View the Movies Avaliable.
+    * Purchase a Ticket.
+    * View the avaliable seats.
+    * Cancel a Ticket.
+    * Exit System.
+   
+## SWOT ANALYSIS
+![SWOT Analysis](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/swot-analysis.PNG)
 
-**People who don’t have technical knowledge of calculating electricity bill can use this application to predict electricity bill of upcoming months, however, the defining features of an electricity bill calculator include:**
+### 4W&#39;s and 1&#39;H
 
-- power rating of all loads
-- total load calculation
-- unit consumed per day
-- units consumed per month
+## Who
+### * Theater
 
-In addition, high-end electricity bill calculators generally include:
+## What
+*   To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
 
-- electricity bill calculation in urban areas
-- electricity bill calculation in rural areas
-- bill calculation based on units consumed
+## When
+*   When user wants to carry out the tasks quickly and this reduces manual work and saves time
 
-# **Cost Vs Timeline**
-**
-` `This is the plot of cost of the calculators in ($ ) and time in  (years)
+## Where
+*   This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
 
-![Aspose Words 088b8439-ce94-4b00-aac5-64487bb801e5 001](https://user-images.githubusercontent.com/89764315/132320020-ab527da5-1522-4eb4-b645-75367eb9363a.png)
+## How
+*   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
 
+### Detail requirements
 
-[https://www.researchgate.net/profile/Lili\_Liu4/publication/329653747/figure/fig4/AS:723817190137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
+## High Level Requirements 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to login to the system| Techincal | IMPLEMENTED | 
+| HR02 | User shall be able to purchase a ticket | Techincal | IMPLEMENTED |
+| HR03 | User shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
+| HR04 | User shall be able to cancel a ticket| Techincal | IMPLEMENTED |
+| HR05 | User shall be able to view the reserved seats  | Techincal | IMPLEMENTED |
 
-# **Defining System:** 
+### Low level Requirements
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+|LR01|User shall be able to login to the system with correct login details|HR01|IMPLEMENTED|
+|LR02|User need to book a ticket in a user entry mode|HR01|IMPLEMENTED|
+|LR03| If appropriate login details are not entered a message is displayed-"wrong password" | HR01 | IMPLEMENTED |
+|LR04 |Displaying the movies available  | HR02 | IMPLEMENTED |
+|LR05| Admin can change the price for the movie| HR02|IMPLEMENTED|
+|LR06 |If user specifies seat number which  is booked ,message appears that the seat is unavaliable  | HR05 | IMPLEMENTED |
+|LR07 |Displaying the summary of the ticket booked  | HR03 |IMPLEMENTED|
+<!--
+Refernces Have refered google for some part of coding and information
+-->
 
-Design and testing operations of electricity bill calculator using unit testing algorithm.
-
-# **SWOT analysis:**
-
-**Strengths:** Innovative, User-friendly.
-
-**Weakness**: Cost of calculator increases as features added in the calculator increase.
-
-Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
-
-Threats: Slower growth in an innovation always threat for the company in this dynamic world.
-
-**4’W and 1’H**
-
-**What:**  Electricity bill calculator**     
-
-**Where:** School, Science, domestic, industries, Technology
-
-**When:** Need for calculation.
-
-**How:** Calculates the user input as number of loads and gives the output.
-
-**Detail Requirements:**
-
-# **High Level Requirements:**
-
-|`      `**ID**|`                 `**Description**|`            `**Status**|
-| :- | :- | :- |
-|`    `HL01|` `Electricity bill calculation at Urban areas if(units<30) | Implemented |
-|`    `HL02|` `Electricity bill calculation at Urban areas if(units>30 && units <100)| Implemented |
-|`    `HL03|` `Electricity bill calculation at Urban areas if(units>101 && units <200) | Implemented |
-|`    `HL04|` `Electricity bill calculation at Urban areas if(units<200)| Implemented |
-|`    `HL05|` `Electricity bill calculation at Rural areas if(units<30) | Implemented |
-|`    `HL06|` `Electricity bill calculation at Rural areas if(units>30 && units <100)| Implemented |
-|`    `HL07|` `Electricity bill calculation at Rural areas if(units>101 && units <200) | Implemented |
-|`    `HL08|` `Electricity bill calculation at Rural areas if(units<200)| Implemented |
-
-# **Low level Requirements:**
-
-|`      `**ID**|`                 `**Description**|`            `**Status**|
-| :- | :- | :- |
-|LL01\_HL01|` `Calculates electricity bill at rural areas| Implemented |
-|LL02\_HL02|` `Calculates electricity bill at urban areas|Implemented |
-|LL03\_HL03|` `Calculates total load at domestics places|Implemented |
-|LL04|` `Calculates total unit consumed at domestics places| Implemented |
