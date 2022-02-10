@@ -1,10 +1,10 @@
 
 
-**# REQUIREMENTS**
+# ** REQUIREMENTS**
 
 **#INTRODUCTION:** The Electricity Bill calculator project is the application based mini project,      which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
 
-**#RESEARCH**
+# **RESEARCH**
 
 **People who don’t have technical knowledge of calculating electricity bill can use this application to predict electricity bill of upcoming months, however, the defining features of an electricity bill calculator include:**
 
@@ -19,20 +19,20 @@ In addition, high-end electricity bill calculators generally include:
 - electricity bill calculation in rural areas
 - bill calculation based on units consumed
 
-**Cost Vs Timeline**
+# **Cost Vs Timeline**
 **
-` `This is the plot of cost of the calculators in ($ ) and time in  years
+` `This is the plot of cost of the calculators in ($ ) and time in  (years)
 
 ![Aspose Words 088b8439-ce94-4b00-aac5-64487bb801e5 001](https://user-images.githubusercontent.com/89764315/132320020-ab527da5-1522-4eb4-b645-75367eb9363a.png)
 
 
 [https://www.researchgate.net/profile/Lili\_Liu4/publication/329653747/figure/fig4/AS:723817190137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
-**Defining System:** 
+# **Defining System:** 
 
 Design and testing operations of electricity bill calculator using unit testing algorithm.
 
-**SWOT analysis:**
+# **SWOT analysis:**
 
 **Strengths:** Innovative, User-friendly.
 
@@ -54,7 +54,7 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 **Detail Requirements:**
 
-**High Level Requirements:**
+# **High Level Requirements:**
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
@@ -67,7 +67,7 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 |`    `HL07|` `Electricity bill calculation at Rural areas if(units>101 && units <200) | Implemented |
 |`    `HL08|` `Electricity bill calculation at Rural areas if(units<200)| Implemented |
 
-` `**Low level Requirements:**
+# **Low level Requirements:**
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
