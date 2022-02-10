@@ -1,9 +1,9 @@
 
-# ** REQUIREMENTS**
+**# REQUIREMENTS**
 
-# **INTRODUCTION:** The Electricity Bill calculator project is the application based mini project,      which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
+**#INTRODUCTION:** The Electricity Bill calculator project is the application based mini project,      which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
 
-# **RESEARCH**
+**#RESEARCH**
 
 **People who don’t have technical knowledge of calculating electricity bill can use this application to predict electricity bill of upcoming months, however, the defining features of an electricity bill calculator include:**
 
@@ -20,7 +20,7 @@ In addition, high-end electricity bill calculators generally include:
 
 **Cost Vs Timeline**
 **
-` `This is the plot of cost of the calculators in ($ ) and time in  (years)
+` `This is the plot of cost of the calculators in ($ ) and time in  years
 
 [README.md](https://github.com/Chetanshidling1999/Electricitybillingsystem/files/7120418/README.md)
 
@@ -31,7 +31,7 @@ In addition, high-end electricity bill calculators generally include:
 
 Design and testing operations of electricity bill calculator using unit testing algorithm.
 
-# **SWOT analysis:**
+**SWOT analysis:**
 
 **Strengths:** Innovative, User-friendly.
 
@@ -53,7 +53,7 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 **Detail Requirements:**
 
-# **High Level Requirements:**
+**High Level Requirements:**
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
@@ -62,7 +62,7 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 |`    `HL03|` `Units consumed per year|Implemented|
 |`    `HL04|` `Calculates total industrial loads|Implemented|
 
-# **Low level Requirements:**
+` `**Low level Requirements:**
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
