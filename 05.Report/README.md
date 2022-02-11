@@ -100,3 +100,28 @@ It can help to improve a person's concentration as well as strategic thinking
 | LR07 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win. | HR05 |
 | LR08 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR06 |
 
+# Design
+
+## High Level Design 
+
+### Behavioral Usecase Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/usecase%20HL.png?raw=true)
+
+### Structural Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/high%20level%20structural.png?raw=true)
+
+## Low Level Design 
+
+### Behavioral Usecase Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/structural%20HL.png?raw=true)
+
+
+### Structural Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/structural%20high%20level.png?raw=true)
+
+
+
