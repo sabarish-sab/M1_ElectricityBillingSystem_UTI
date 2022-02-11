@@ -1,23 +1,19 @@
-## Table no: High Level test plan
+# TEST PLAN:
 
-|**Test ID**|**Description**|**Exp i/P**|**Exp O/P**|**Actual O/P**|
-| :- | :-: | :-: | :-: | :-: |
-|H\_01|Electricity bill calculation at urban areas|Choice|SUCCESS|SUCCESS|
-|H\_02|Electricity bill calculation at rural areas|Choice|SUCCESS|SUCCESS|
-|H\_03|Units consumed per year|Choice|SUCCESS|SUCCESS|
-|H\_04|Calculates total industrial loads|Choice|SUCCESS|SUCCESS|
+## Table no: High level test plan
+
+|Test ID | Description | Exp I/P | Exp O/P |
+|--------|-------------|---------|---------|
+|H_01    |  Check if the graph for playing is being drawn or not.           |    No input.     |      3X3 graph is drawn.   |
+|H_02    |Check if player/computer got 3 of his inputs in vertical, horizontal or diagonal format.             |   'X' or 'O' i/p from the user/computer.      |The user/computer won the game.|
+|H_03    | Check for draw.            |   9 inputs from (user+computer).      |     The game is over.    |
+
+## Table no: Low level test plan
+
+|Test ID | Description | Exp I/P | Exp O/P |
+|--------|-------------|---------|---------|
+|L_01    | Checking for the basic requirement to the game, i.e., a 3X3 graph is drawn or not. This 3X3 graph is the basic need to play the game as it is like a game board for the game. |    Not input expected from the user. |  3X3 graph is drawn.  |
+|L_02    |  Play proceeds with the user/computer alternately placing their marks in any unoccupied cell. Check if any player/computer finishes  with 3 marks in a row(vertical, horizontal or diagonal). |   'X' or 'O' i/p from the user/computer.      |   The user/computer won the game.      |
+|L_03    |   Check if a total of 9 moves have been made( combining that of user and computer), the game ends up in a draw when neither the user nor the computer is able to get 3 marks in a row.           |  9 inputs from (user+computer).       |                The game is over.       Somebody won or the game ended as a draw. |
 
 
-## Table no: Low Level test plan
-
-
-|Test ID|HL\_ID|Description|Exp input|Exp Output|Actual Output|
-| :- | :- | :- | :- | :- | :- |
-|L\_01|H\_01|Electricity bill calculation at Urban areas if(units<30)|22 units|71.5 rupees|71.5 rupees|
-|L\_02|H\_01|Electricity bill calculation at Urban areas if(units>30 && units <100)|50|235|235|
-|L\_03|H\_01|Electricity bill calculation at Urban areas if(units>101 && units <200)|150|937.5|937.5|
-|L\_04|H\_01|Electricity bill calculation at Urban areas if(units<200)|230|1,679|1,679|
-|L\_05|H\_02|Electricity bill calculation at Urban areas if(units<30)|12|<p>37.8</p><p></p>|<p>37.8</p><p></p>|
-|L\_06|H\_02|Electricity bill calculation at Urban areas if(units>30 && units <100)|67|294.8|294.8|
-|L\_07|H\_02|Electricity bill calculation at Urban areas if(units>101 && units <200)|134|797.3|797.3|
-|L\_08|H\_02|Electricity bill calculation at Urban areas if(units<200)|344|2,339.2|2,339.2|
