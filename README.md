@@ -1,57 +1,47 @@
+<a href="https://frontend.code-inspector.com/public/user/github">
+   <img src="https://code-inspector.com/public/badge/user/github" alt="code inspector badge" />
+   <img  src="https://www.code-inspector.com/project/27776/score/svg" />
+   <img src="https://www.code-inspector.com/project/27776/status/svg" />
+
+</a>
+
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7244000ceab247a29b12f1a61dc0fee6)](https://www.codacy.com/gh/chinnam-sowmya/sowmya_stepin_Tic-tac-toe/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chinnam-sowmya/sowmya_stepin_Tic-tac-toe&amp;utm_campaign=Badge_Grade)
+
+
+
+
+
+
+
+
+
+
+
 # SDLC Activity Based Learning
+![tic-tac-toe](https://user-images.githubusercontent.com/80390615/132171903-dc7a8320-52e4-431e-8bf0-79afc2778a19.png)
 
-![Banner](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
-
-<!--
-Visit [Pages for Report -optional](using github.io option)
-
-
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
- To be added | To be added | To be added | To be added
-
--->
-
-![Code_Quality_Grade](https://www.code-inspector.com/project/27638/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ecd85a2c4234d69affd5a4d5d96af52)](https://www.codacy.com/gh/goutami8989/Stepin_Movie-Ticket-Booking-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=goutami8989/Stepin_Movie-Ticket-Booking-System&amp;utm_campaign=Badge_Grade)
-[![cppcheck-action](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml)
-[![C/C++ CI](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/c-build.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/c-build.yml)
-[![Unit testing](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/unit-test.yml)
-[![Contribution Check - Git Inspector](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Architecture`   | Documents specifying design details
+`2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-`5_Images`         | Screen-shots of the working code
-##  Features
-| Feature Id | Feature |
-| -----------|---------|
-|F_01| Login to System | |
-|F_02|Select Movie that is Avaliable |
-|F_03| Purchase a Ticket |
-|F_04| Summary of Ticket |
-|F_05| Cancel a Ticket |
-|F_06| Logout |
+   
+   
 
-<!--
-
-## Contributors List and Summary
-
-PS Number. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`99006110` | Goutami D Honagannavar  | Feature A, B etc    | X No     | X No   |X No   |X No     
-   -->
-<!--
 ## Challenges Faced and How Was It Overcome
 
 1. ABC
 2. BCD
 3. ...
-4. ...
 
 
-
+## Learning Resources
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
