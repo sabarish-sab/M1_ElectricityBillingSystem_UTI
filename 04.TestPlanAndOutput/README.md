@@ -1,4 +1,4 @@
-# TEST PLAN:
+# TEST PLAN And Output:
 
 ## Table no: High level test plan
 
