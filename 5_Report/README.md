@@ -53,6 +53,25 @@ It can help to improve a person's concentration as well as strategic thinking
 * Then it checks if anyone has won yet.
 * If not, then it again checks if it is a draw situation.
 
+
+
+# SDLC Activity Based Learning
+![tic-tac-toe](https://user-images.githubusercontent.com/80390615/132171903-dc7a8320-52e4-431e-8bf0-79afc2778a19.png)
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+   
+  
+
+
+
+
 ## SWOT ANALYSIS
 ![SWOT Analysis](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/swot.png?raw=true)
 
@@ -142,4 +161,11 @@ It can help to improve a person's concentration as well as strategic thinking
 |L_01    | Checking for the basic requirement to the game, i.e., a 3X3 graph is drawn or not. This 3X3 graph is the basic need to play the game as it is like a game board for the game. |    Not input expected from the user. |  3X3 graph is drawn.  |
 |L_02    |  Play proceeds with the user/computer alternately placing their marks in any unoccupied cell. Check if any player/computer finishes  with 3 marks in a row(vertical, horizontal or diagonal). |   'X' or 'O' i/p from the user/computer.      |   The user/computer won the game.      |
 |L_03    |   Check if a total of 9 moves have been made( combining that of user and computer), the game ends up in a draw when neither the user nor the computer is able to get 3 marks in a row.           |  9 inputs from (user+computer).       |                The game is over.       Somebody won or the game ended as a draw. |
+
+
+## Learning Resources
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
