@@ -1,6 +1,6 @@
-
 name: cppcheck-action
 on: [push]
+
 jobs:
   build:
     name: cppcheck
@@ -10,5 +10,5 @@ jobs:
         
       - name: Install cppcheck
         run: sudo apt-get -y install cppcheck
-      - name: Cppcheck 
-        run: cppcheck 3_Implementation 
+      - name: Cppcheck code
+        run: cppcheck
